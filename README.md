@@ -1,2 +1,2 @@
 # 2D-Pong
-Project files on Game 2D Pong Indo
+The project files of 2D Pong Indo Game contain all the necessary assets and scripts to run the game
