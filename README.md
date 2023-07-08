@@ -3,5 +3,4 @@
 
  ![Screenshot (128)](https://user-images.githubusercontent.com/119511703/219932085-77980373-d97c-4adc-a8d6-842669318905.png)
  
-You can run this game on Windows by downloading the "Build Windows" file, and then opening the "Pong Indo.exe" file.
 ##### Note : still alpha version
